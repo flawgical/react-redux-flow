@@ -3,6 +3,7 @@ React REDUX
 https://redux.js.org/basics/usage-with-react
 
 Intro to redux
+![flow](https://goo.gl/images/hQEY6Q)
 
 Redux is a state container for react and it is an attempt to do a flux flow for data and events. It is abstract but it is cool.
 
