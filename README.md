@@ -1,5 +1,6 @@
 React REDUX
 
+https://redux.js.org/basics/usage-with-react
 
 Intro to redux
 
